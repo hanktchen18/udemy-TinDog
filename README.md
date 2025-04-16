@@ -1,5 +1,5 @@
-# udemy-TinDog-bootstrap
-## What I Learned
+# udemy-TinDog
+
 A project from Udemy course - The Complete Full-Stack Web Development Bootcamp.
 
 https://hanktchen18.github.io/udemy-TinDog-bootstrap/
