@@ -1,8 +1,9 @@
-# udemy-TinDog-bootstrap
+# TinDog
+
+A modern and responsive landing page for a fictional dog dating app, built using Bootstrap 5.
+View the web app here: 
+
 ## What I Learned
-A project from Udemy course - The Complete Full-Stack Web Development Bootcamp.
-
-https://hanktchen18.github.io/udemy-TinDog-bootstrap/
-
-# What I Learned
-* Leveraged **Bootstrap** to quickly build a beautiful and modern web interface
+- Leveraged **Bootstrap** to quickly build a beautiful and modern web interface
+- Created engaging user interface components
+- Utilized Bootstrap's grid system and components effectively
