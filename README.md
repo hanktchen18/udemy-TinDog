@@ -1,6 +1,7 @@
 # TinDog
 
 A modern and responsive landing page for a fictional dog dating app, built using Bootstrap 5.
+
 View the web app here: https://hanktchen18.github.io/TinDog/
 
 ## What I Learned
